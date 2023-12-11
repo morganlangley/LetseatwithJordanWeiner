@@ -1,0 +1,80 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+body {
+    background-color: #F6F2D6;
+}
+.aboutphoto{
+    padding-left: 40%;
+    padding-bottom: 4%;
+}
+.aboutphoto2{
+    padding-left: 30%;
+}
+.aboutlogo{
+    margin-top: -150px;
+    padding-left: 11%;
+}
+.productlogo{
+    padding-left: 10%;
+}
+.reclogo{
+    padding-left: 25%;
+    margin-top: -150px;
+}
+.newslogo{
+    padding-right: 60%;
+}
+#about{ 
+    margin-top: -200px;
+}
+.letseat{
+font-weight: bold;
+}    
+#welcome{
+    margin-top: -200px;
+}
+.textbox p{
+    padding-left: 100px;
+}
+#salmonbowl{
+    margin-top: -200px; 
+}
+#turkeyburger{
+    margin-top: -200px; 
+}
+#tomatosoup{
+    margin-top: -200px; 
+}
+#Favoriteproducts{
+    margin-top: -200px; 
+}
+#Recommendations{
+    margin-top: -200px; 
+}
+.jordanimage{
+    padding-left: 30%;
+}
+h2{
+    font-weight: bold;
+}
+h3{
+    font-style: italic;
+    text-align: start;
+    padding-left: 12%
+}
+#contact{
+    margin-top: -200px; 
+}
+#carousel{
+    margin-top: -200px; 
+}
+#line{
+    margin-top: -200px; 
+    padding-left: 5% ;
+}
+#Recommendationstwo{
+    margin-top: -200px; 
+    padding-left: 2%;
+}
+.reclogo2{
+    padding-left: 2%;
+}
